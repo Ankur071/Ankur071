@@ -8,10 +8,10 @@
 
 ## 🚀 Projects
 
-- 🔹 **Quiz App** – Java + Spring Boot + MySQL 
-- 🔹 **Movie Guide App** – Built using JavaScript, fetches movie details from an API.
-- 🔹 **Weather App** – Fetches live weather data with a clean UI.
+- 🔹 **Quiz App** – Java + Spring Boot + MySQL (in progress)  
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Includes features like question management, quiz generation, and RESTful APIs.
+- 🔹 **Klikkart** – An e-commerce UI project with responsive design and modern features.
+- 🔹 **Movie Guide App** – Built using JavaScript, fetches movie details from an API.
 
 ## 🧠 Interests
 
