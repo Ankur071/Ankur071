@@ -8,7 +8,7 @@
 
 ## 🚀 Projects
 
-- 🔹 **Quiz App** – Java + Spring Boot + MySQL
+- 🔹 **Quiz App** – Java + Spring Boot + MySQL 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Includes features like question management, quiz generation, and RESTful APIs.
 - 🔹 **Klikkart** – An e-commerce UI project with responsive design and modern features.
 - 🔹 **Movie Guide App** – Built using JavaScript, fetches movie details from an API.
