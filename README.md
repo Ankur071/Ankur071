@@ -24,7 +24,7 @@
 
 - 🌐 [[Portfolio](https://my-portfolio-sepia-two-13.vercel.app/)](#)   
 - 📧 Email: [ankuryadav7559@gmail.com](mailto:your.email@example.com)  
-- 💼 LinkedIn: [[YourLinkedIn](https://www.linkedin.com/in/ankur-yadav-610943295/)](#)  
+- 💼 LinkedIn: [[LinkedIn](https://www.linkedin.com/in/ankur-yadav-610943295/)](#)  
 
 ---
 
