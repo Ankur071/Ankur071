@@ -7,10 +7,10 @@
 🛠️ Tech Stack: Core Java, MySQL, Spring Boot, React, Git, HTML, CSS, JavaScript.
 
 ## 🚀 Projects
-
+ 
 - 🔹 **FlixFinder** – Built using JavaScript, fetches movie details from an API.
 - 🔹 **Klikkart** – A full stack e-commerce website built with React (frontend) and Spring Boot (backend).
-- 🔹 **Quiz App** – Java + Spring Boot + MySQL (in progress)  
+- 🔹 **EduQuest** – Quiz App with Java + Spring Boot + MySQL               
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Includes features like question management, quiz generation, and RESTful APIs.
 
 ## 🧠 Interests
