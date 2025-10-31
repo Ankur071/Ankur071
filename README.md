@@ -33,8 +33,8 @@
 <details>	
  <summary><b>🏅 Hacktoberfest (25) Badges </b></summary><br>
 <div align="center">
-  <a href="https://www.holopin.io/@ankur071#badges">
-    <img src="https://www.holopin.io/hacktoberfest2025/userbadge/cmgqfig1c002kl404doiuq7um" width="120px" height="120px" alt="Hacktoberfest 25 Badge" />
+  <a href="https://www.holopin.io/@ankur071">
+    <img src="https://holopin.me/ankur071?badge=cmgqfig1c002kl404doiuq7um" alt="Holopin Badge" width="120px" height="120px"/>
   </a>
 </div>
 </details>
