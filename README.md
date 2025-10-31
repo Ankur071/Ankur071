@@ -30,25 +30,29 @@
 
 ⭐️ Check out my repositories and feel free to give feedback or suggestions!
 
-
-## 🏅 Hactober (25) Badges
-
-[![Holopin Badge](https://holopin.me/ankuryadav?badge=cmgqfig1c002kl404doiuq7um)](https://holopin.io/@ankuryadav)
-
+<details>	
+ <summary><b>🏅 Hacktoberfest (25) Badge 🪶</b></summary><br>
+<div style='display:flex; align-items:center; gap: 10px;' align='center'>
+  <a href="https://holopin.io/@ankuryadav">
+    <img src="https://holopin.me/ankuryadav?badge=cmgqfig1c002kl404doiuq7um" width="100px" height="100px" />
+  </a>
+</div>
+</details>
 
 <details>	
- <summary><b>🏅 GSSOC(24) Badges </b></summary><br>
-<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
-<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
+ <summary><b>🏅 GSSOC (24) Badges 🪶</b></summary><br>
+<div style='display:flex; align-items:center; gap: 10px;' align='center'>
+  <a href="https://gssoc.girlscript.tech/leaderboard">
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
+  </a>
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
-
-
 </div>
 </details>
+
 
 <!--
 **Ankur071/Ankur071** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
