@@ -31,15 +31,6 @@
 ⭐️ Check out my repositories and feel free to give feedback or suggestions!
 
 <details>	
- <summary><b>🏅 Hacktoberfest (25) Badges </b></summary><br>
-<div align="center">
-  <a href="https://www.holopin.io/@ankur071">
-    <img src="https://holopin.me/ankur071?badge=cmgqfig1c002kl404doiuq7um" alt="Holopin Badge" width="120px" height="120px"/>
-  </a>
-</div>
-</details>
-
-<details>	
  <summary><b>🏅 GSSOC (24) Badges </b></summary><br>
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
   <a href="https://gssoc.girlscript.tech/leaderboard">
@@ -50,6 +41,15 @@
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
+</div>
+</details>
+
+<details>	
+ <summary><b>🏅 Hacktoberfest (25) Badges </b></summary><br>
+<div align="center">
+  <a href="https://www.holopin.io/@ankur071">
+    <img src="https://holopin.me/ankur071?badge=cmgqfig1c002kl404doiuq7um" alt="Holopin Badge" width="120px" height="120px"/>
+  </a>
 </div>
 </details>
 
