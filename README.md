@@ -105,7 +105,8 @@ Task management dashboards for admins and employees with real-time UI workflows.
 * LeetCode Rating: **1377+**, 100+ problems solved
 * CodeChef Rating: **1207**
 * Team Lead — Auctum 2024 (DiverseDynasty)
-* **GSSoC Contributor • Hacktoberfest 2024 Participant**
+* **GSSoC Contributor 2024**
+* **Hacktoberfest Participant 2025**
 
 ---
 
