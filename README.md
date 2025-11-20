@@ -12,7 +12,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/GSSoC-Contributor-f26b00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Hacktoberfest-2024-FF8C00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Hacktoberfest-2025-FF8C00?style=for-the-badge" />
 </p>
 
 ---
