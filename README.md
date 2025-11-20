@@ -114,9 +114,9 @@ Task management dashboards for admins and employees with real-time UI workflows.
 
 ## 📫 Connect With Me
 
-**Email:** [ankuryadav7559@gmail.com](mailto:ankuryadav7559@gmail.com)
-**LinkedIn:** *([Ankur Yadav](https://www.linkedin.com/in/ankur-yadav-610943295))*
-**GitHub:** [Ankur071](https://github.com/Ankur071)
+* **Email:** [ankuryadav7559@gmail.com](mailto:ankuryadav7559@gmail.com)
+* **LinkedIn:** [Ankur Yadav](https://www.linkedin.com/in/ankur-yadav-610943295)
+* **GitHub:** [Ankur071](https://github.com/Ankur071)
 
 ---
 
