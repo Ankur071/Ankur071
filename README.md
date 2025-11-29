@@ -69,7 +69,7 @@ I am a Full-Stack Developer with a strong foundation in backend engineering, RES
 
 ### **KIS Technology** — Full-Stack Developer *(Aug 2025 – Present)*
 
-* Building modules for **Hala Global**, a FinTech platform
+* Building modules for **Hala Web Go**, a FinTech platform
 * Developing enterprise UI modules in **Angular + TypeScript**
 * Implementing **OpenAS2 Java integration** for secure B2B EDI communication (Electronic Data Interchange)
 
