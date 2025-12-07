@@ -21,11 +21,11 @@
 
 ## 🚀 About Me
 
-I am a Full-Stack Developer with a strong foundation in backend engineering, REST API development, and front-end architecture. Passionate about building scalable products and clean, maintainable systems.
+I am a Full-Stack Developer with a strong focus on backend engineering, REST API design, and scalable front-end architectures. I enjoy building clean, maintainable systems that solve real-world problems.
 
-* MCA student at **IET Lucknow (CGPA: 8.84)**
-* Experience in **FinTech**, B2B integrations, and enterprise modules
-* Enthusiastic about backend engineering, microservices, and cloud-native development
+* 🎓 MCA student at **IET Lucknow (CGPA: 8.84)**
+* 💼 Professional experience in **FinTech platforms and B2B EDI integrations**
+* 🧩 Strong interest in backend systems, microservices, and cloud-ready applications
 
 ---
 
@@ -56,8 +56,8 @@ I am a Full-Stack Developer with a strong foundation in backend engineering, RES
 
 <p>
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
 </p>
 
@@ -67,16 +67,16 @@ I am a Full-Stack Developer with a strong foundation in backend engineering, RES
 
 ## 💼 Experience
 
-### **KIS Technology** — Full-Stack Developer *(Aug 2025 – Present)*
+### **KIS Technology** — Full-Stack Developer *(Sep 2025 – Present)*
 
-* Building modules for **Hala Web Go**, a FinTech platform
-* Developing enterprise UI modules in **Angular + TypeScript**
-* Implementing **OpenAS2 Java integration** for secure B2B EDI communication (Electronic Data Interchange)
+* Contributing to **Hala Web Go**, a FinTech platform supporting business-scale payment workflows
+* Developing modular, enterprise-grade UI components using **Angular & TypeScript**
+* Implementing **OpenAS2 (Java)**–based secure **B2B EDI communication**, including encryption and digital signatures
 
 ### **IBM SkillsBuild** — Front-End Developer Trainee *(Jun 2024 – Aug 2024)*
 
-* Created **Eudemonia**, a mental wellness platform
-* Built interactive tools using **HTML5, CSS3, JavaScript**
+* Built **Eudemonia**, a web platform focused on emotional and mental well-being
+* Developed responsive, interactive features using **HTML5, CSS3, and JavaScript**
 
 ---
 
@@ -86,15 +86,15 @@ I am a Full-Stack Developer with a strong foundation in backend engineering, RES
 
 ### 🔹 **KlikKart** — React.js | Spring Boot
 
-Full-stack e-commerce platform integrating REST APIs with secure communication.
+A full-stack e-commerce application with RESTful backend services and secure frontend–backend communication.
+
+### 🔹 **Polling App** — Angular | Spring Boot
+
+Full-stack polling application allowing users to create polls, vote securely, and view results using Angular frontend and Spring Boot REST APIs.
 
 ### 🔹 **EduQuest** — Spring Boot | MySQL
 
-Backend quiz management system with randomized questions and evaluation logic.
-
-### 🔹 **TeamTrack** — React.js | Tailwind CSS
-
-Task management dashboards for admins and employees with real-time UI workflows.
+Backend quiz management system supporting randomized questions, category-based filtering, and evaluation logic.
 
 ---
 
@@ -102,11 +102,11 @@ Task management dashboards for admins and employees with real-time UI workflows.
 
 ## 🏆 Achievements
 
-* LeetCode Rating: **1377+**, 100+ problems solved
-* CodeChef Rating: **1207**
-* Team Lead — Auctum 2024 (DiverseDynasty)
-* **GSSoC Contributor 2024**
-* **Hacktoberfest Participant 2025**
+* ⭐ LeetCode rating **1377+** with 100+ problems solved
+* ⭐ CodeChef rating **1207**
+* 🧠 Team Lead — **Auctum 2024** (DiverseDynasty)
+* 🌱 **GirlScript Summer of Code (GSSoC) 2024 Contributor**
+* 🚀 **Hacktoberfest 2025 Participant**
 
 ---
 
@@ -115,18 +115,20 @@ Task management dashboards for admins and employees with real-time UI workflows.
 ## 📫 Connect With Me
 
 <p align="center">
+ <a href="https://portfolio-ankur-dev.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=aboutdotme&logoColor=white" />
+</a>
   <a href="mailto:ankuryadav7559@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/ankur-yadav-610943295" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/Ankur071" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
-<p align="center">⭐ Thank you for visiting — let's build something great together!</p>
-
+<p align="center">⭐ Thank you for visiting — let's build something meaningful together!</p>
