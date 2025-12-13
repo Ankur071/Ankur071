@@ -126,9 +126,9 @@ Full-stack polling application enabling poll creation, secure voting, and result
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://ankur071.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=aboutdotme&logoColor=white" />
-  </a>
+ <a href="https://portfolio-ankur-dev.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-0B3C5D?style=for-the-badge&logo=aboutdotme&logoColor=white" />
+</a>
   <a href="mailto:ankuryadav7559@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
