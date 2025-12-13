@@ -94,10 +94,10 @@ I am a Full-Stack Developer with a strong focus on backend engineering, REST API
 
 ## 📂 Featured Projects
 
-### 🔹 **PromptLab AI** — React.js | Java | Spring Boot | AI APIs
+### 🔹 **PromptLab AI** — Angular | Java | Spring Boot | AI APIs
 
-An AI-powered content generation platform supporting summarization, rewriting, and prompt-based AI utilities using a
-React.js frontend and Spring Boot backend with external AI API integrations.
+An AI-powered content generation platform supporting summarization, rewriting, and prompt-based AI utilities using an
+Angular frontend and Spring Boot backend with external AI API integrations.
 
 ### 🔹 **EduQuest** — Spring Boot | MySQL
 
