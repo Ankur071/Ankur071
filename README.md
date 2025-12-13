@@ -63,6 +63,16 @@ I am a Full-Stack Developer with a strong focus on backend engineering, REST API
 
 ---
 
+<!-- ====================== GITHUB STATS ====================== -->
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Ankur071&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
 <!-- ====================== EXPERIENCE ====================== -->
 
 ## 💼 Experience
@@ -108,24 +118,6 @@ Full-stack polling application enabling poll creation, secure voting, and result
 * 🧠 Team Lead — **Auctum 2024** (DiverseDynasty)
 * 🌱 **GirlScript Summer of Code (GSSoC) 2024 Contributor**
 * 🚀 **Hacktoberfest 2025 Participant**
-
----
-
-<!-- ====================== GITHUB STATS ====================== -->
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ankur071&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ankur071&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankur071&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
 
 ---
 
