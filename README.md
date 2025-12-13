@@ -84,17 +84,18 @@ I am a Full-Stack Developer with a strong focus on backend engineering, REST API
 
 ## 📂 Featured Projects
 
-### 🔹 **KlikKart** — React.js | Spring Boot
+### 🔹 **PromptLab AI** — React.js | Java | Spring Boot | AI APIs
 
-A full-stack e-commerce application with RESTful backend services and secure frontend–backend communication.
-
-### 🔹 **Polling App** — Angular | Spring Boot
-
-Full-stack polling application allowing users to create polls, vote securely, and view results using Angular frontend and Spring Boot REST APIs.
+An AI-powered content generation platform supporting summarization, rewriting, and prompt-based AI utilities using a
+React.js frontend and Spring Boot backend with external AI API integrations.
 
 ### 🔹 **EduQuest** — Spring Boot | MySQL
 
 Backend quiz management system supporting randomized questions, category-based filtering, and evaluation logic.
+
+### 🔹 **Polling App** — Angular | Spring Boot
+
+Full-stack polling application enabling poll creation, secure voting, and result visualization using Angular frontend and Spring Boot REST APIs.
 
 ---
 
@@ -110,14 +111,32 @@ Backend quiz management system supporting randomized questions, category-based f
 
 ---
 
+<!-- ====================== GITHUB STATS ====================== -->
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ankur071&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Ankur071&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankur071&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
 <!-- ====================== CONTACT ====================== -->
 
 ## 📫 Connect With Me
 
 <p align="center">
- <a href="https://portfolio-ankur-dev.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=aboutdotme&logoColor=white" />
-</a>
+  <a href="https://ankur071.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=aboutdotme&logoColor=white" />
+  </a>
   <a href="mailto:ankuryadav7559@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
