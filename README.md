@@ -63,12 +63,20 @@ I am a Full-Stack Developer with a strong focus on backend engineering, REST API
 
 ---
 
-<!-- ====================== GITHUB STATS ====================== -->
+<!-- ====================== STATISTICS ====================== -->
 
-## 📊 GitHub Stats
+## 📊 Statistics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ankur071&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Ankur071&theme=github-dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankur071&layout=donut&theme=github_dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ankur071&theme=github-dark&hide_border=true" />
 </p>
 
 ---
