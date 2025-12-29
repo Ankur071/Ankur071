@@ -102,6 +102,11 @@ I am a Full-Stack Developer with a strong focus on backend engineering, REST API
 
 ## 📂 Featured Projects
 
+### 🔹 **POS Application (Enterprise SaaS)** — Spring Boot | MySQL | Postman
+
+Multi-tenant Point of Sale (POS) system designed for enterprise use, supporting product management,
+billing, orders, and role-based access with a scalable Spring Boot backend and modern React frontend.
+
 ### 🔹 **PromptLab AI** — Angular | Java | Spring Boot | AI APIs
 
 An AI-powered content generation platform supporting summarization, rewriting, and prompt-based AI utilities using an
