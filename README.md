@@ -102,7 +102,7 @@ I am a Full-Stack Developer with a strong focus on backend engineering, REST API
 
 ## 📂 Featured Projects
 
-### 🔹 **POS Application (Enterprise SaaS)** — Spring Boot | MySQL | Postman
+### 🔹 **POS Application (Enterprise SaaS)** — Spring Boot | React | MySQL | Postman
 
 Multi-tenant Point of Sale (POS) system designed for enterprise use, supporting product management,
 billing, orders, and role-based access with a scalable Spring Boot backend and modern React frontend.
